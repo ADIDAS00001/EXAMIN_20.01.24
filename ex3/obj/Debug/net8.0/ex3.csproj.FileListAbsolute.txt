@@ -1,0 +1,14 @@
+C:\Users\Eng Sear\Desktop\ex1\ex3\bin\Debug\net8.0\ex3.exe
+C:\Users\Eng Sear\Desktop\ex1\ex3\bin\Debug\net8.0\ex3.deps.json
+C:\Users\Eng Sear\Desktop\ex1\ex3\bin\Debug\net8.0\ex3.runtimeconfig.json
+C:\Users\Eng Sear\Desktop\ex1\ex3\bin\Debug\net8.0\ex3.dll
+C:\Users\Eng Sear\Desktop\ex1\ex3\bin\Debug\net8.0\ex3.pdb
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.AssemblyInfoInputs.cache
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.AssemblyInfo.cs
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.csproj.CoreCompileInputs.cache
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.dll
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\refint\ex3.dll
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.pdb
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ex3.genruntimeconfig.cache
+C:\Users\Eng Sear\Desktop\ex1\ex3\obj\Debug\net8.0\ref\ex3.dll
